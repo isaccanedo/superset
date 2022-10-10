@@ -59,7 +59,7 @@ O Superset fornece:
 - **camada de cache** leve e configurável para ajudar a facilitar a carga do banco de dados;
 - Opções de **funções de segurança e autenticação** altamente extensíveis;
 - Uma API para personalização programática;
-- A **cloud-native architecture** designed from the ground up for scale
+- Uma **arquitetura nativa da nuvem** projetada desde o início para escala.
 
 ## Screenshots & Gifs
 
