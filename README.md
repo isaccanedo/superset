@@ -58,7 +58,7 @@ O Superset fornece:
 - Uma ampla variedade de **lindas visualizações** para mostrar seus dados, desde simples gráficos de barras até visualizações geoespaciais;
 - **camada de cache** leve e configurável para ajudar a facilitar a carga do banco de dados;
 - Opções de **funções de segurança e autenticação** altamente extensíveis;
-- An API for programmatic customization;
+- Uma API para personalização programática;
 - A **cloud-native architecture** designed from the ground up for scale
 
 ## Screenshots & Gifs
