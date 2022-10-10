@@ -49,7 +49,7 @@ Um aplicativo da web de business intelligence moderno e pronto para empresas.
 
 Superset é uma plataforma moderna de exploração e visualização de dados. O Superset pode substituir ou aumentar as ferramentas proprietárias de inteligência de negócios para muitas equipes. O Superset integra-se bem com uma variedade de fontes de dados.
 
-Superset provides:
+O Superset fornece:
 
 - A **no-code interface** for building charts quickly
 - A powerful, web-based **SQL Editor** for advanced querying
