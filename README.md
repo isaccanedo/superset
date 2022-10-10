@@ -53,7 +53,7 @@ O Superset fornece:
 
 - Uma **interface sem código** para criar gráficos rapidamente;
 - Um **Editor SQL** poderoso e baseado na Web para consultas avançadas;
-- A **lightweight semantic layer** for quickly defining custom dimensions and metrics
+- Uma **camada semântica leve** para definir rapidamente dimensões e métricas personalizadas;
 - Out of the box support for **nearly any SQL** database or data engine
 - A wide array of **beautiful visualizations** to showcase your data, ranging from simple bar charts to geospatial visualizations
 - Lightweight, configurable **caching layer** to help ease database load
