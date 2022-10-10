@@ -56,7 +56,7 @@ O Superset fornece:
 - Uma **camada semântica leve** para definir rapidamente dimensões e métricas personalizadas;
 - Suporte pronto para uso para **quase qualquer banco de dados SQL** ou mecanismo de dados;
 - Uma ampla variedade de **lindas visualizações** para mostrar seus dados, desde simples gráficos de barras até visualizações geoespaciais;
-- Lightweight, configurable **caching layer** to help ease database load
+- **camada de cache** leve e configurável para ajudar a facilitar a carga do banco de dados;
 - Highly extensible **security roles and authentication** options
 - An **API** for programmatic customization
 - A **cloud-native architecture** designed from the ground up for scale
