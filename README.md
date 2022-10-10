@@ -52,7 +52,7 @@ Superset é uma plataforma moderna de exploração e visualização de dados. O 
 O Superset fornece:
 
 - Uma **interface sem código** para criar gráficos rapidamente;
-- A powerful, web-based **SQL Editor** for advanced querying
+- Um **Editor SQL** poderoso e baseado na Web para consultas avançadas;
 - A **lightweight semantic layer** for quickly defining custom dimensions and metrics
 - Out of the box support for **nearly any SQL** database or data engine
 - A wide array of **beautiful visualizations** to showcase your data, ranging from simple bar charts to geospatial visualizations
