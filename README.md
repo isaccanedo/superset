@@ -75,7 +75,7 @@ O Superset fornece:
 
 <kbd><img title="Slice & dice your data" src="superset-frontend/src/assets/images/screenshots/explore.jpg"/></kbd><br/>
 
-**Powerful SQL Editor**
+**Poderoso Editor SQL**
 
 <kbd><img title="SQL Lab" src="superset-frontend/src/assets/images/screenshots/sql_lab.jpg"/></kbd><br/>
 
