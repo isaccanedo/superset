@@ -55,7 +55,7 @@ O Superset fornece:
 - Um **Editor SQL** poderoso e baseado na Web para consultas avançadas;
 - Uma **camada semântica leve** para definir rapidamente dimensões e métricas personalizadas;
 - Suporte pronto para uso para **quase qualquer banco de dados SQL** ou mecanismo de dados;
-- A wide array of **beautiful visualizations** to showcase your data, ranging from simple bar charts to geospatial visualizations
+- Uma ampla variedade de **lindas visualizações** para mostrar seus dados, desde simples gráficos de barras até visualizações geoespaciais;
 - Lightweight, configurable **caching layer** to help ease database load
 - Highly extensible **security roles and authentication** options
 - An **API** for programmatic customization
