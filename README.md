@@ -63,7 +63,7 @@ O Superset fornece:
 
 ## Screenshots & Gifs
 
-**Large Gallery of Visualizations**
+**Galeria de Visualizações**
 
 <kbd><img title="Gallery" src="superset-frontend/src/assets/images/screenshots/gallery.jpg"/></kbd><br/>
 
