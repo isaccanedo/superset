@@ -61,7 +61,7 @@ O Superset fornece:
 - Uma API para personalização programática;
 - Uma **arquitetura nativa da nuvem** projetada desde o início para escala.
 
-## Screenshots & Gifs
+## Capturas de tela e gifs
 
 **Galeria de Visualizações**
 
