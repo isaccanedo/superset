@@ -45,7 +45,7 @@ Um aplicativo da web de business intelligence moderno e pronto para empresas.
 [**Resources**](#resources) |
 [**Organizations Using Superset**](RESOURCES/INTHEWILD.md)
 
-## Why Superset?
+## Porque Superset?
 
 Superset is a modern data exploration and data visualization platform. Superset can replace or augment proprietary business intelligence tools for many teams. Superset integrates well with a variety of data sources.
 
