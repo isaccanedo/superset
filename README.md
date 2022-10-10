@@ -57,7 +57,7 @@ O Superset fornece:
 - Suporte pronto para uso para **quase qualquer banco de dados SQL** ou mecanismo de dados;
 - Uma ampla variedade de **lindas visualizações** para mostrar seus dados, desde simples gráficos de barras até visualizações geoespaciais;
 - **camada de cache** leve e configurável para ajudar a facilitar a carga do banco de dados;
-- Highly extensible **security roles and authentication** options
+- Opções de **funções de segurança e autenticação** altamente extensíveis;
 - An **API** for programmatic customization
 - A **cloud-native architecture** designed from the ground up for scale
 
