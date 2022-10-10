@@ -67,7 +67,7 @@ O Superset fornece:
 
 <kbd><img title="Gallery" src="superset-frontend/src/assets/images/screenshots/gallery.jpg"/></kbd><br/>
 
-**Craft Beautiful, Dynamic Dashboards**
+**Crie painéis bonitos e dinâmicos**
 
 <kbd><img title="View Dashboards" src="superset-frontend/src/assets/images/screenshots/slack_dash.jpg"/></kbd><br/>
 
