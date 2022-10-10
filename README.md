@@ -34,7 +34,7 @@ under the License.
   width="500"
 />
 
-A modern, enterprise-ready business intelligence web application.
+Um aplicativo da web de business intelligence moderno e pronto para empresas.
 
 [**Why Superset?**](#why-superset) |
 [**Supported Databases**](#supported-databases) |
