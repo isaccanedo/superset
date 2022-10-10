@@ -71,7 +71,7 @@ O Superset fornece:
 
 <kbd><img title="View Dashboards" src="superset-frontend/src/assets/images/screenshots/slack_dash.jpg"/></kbd><br/>
 
-**No-Code Chart Builder**
+**Construtor de gráficos sem código**
 
 <kbd><img title="Slice & dice your data" src="superset-frontend/src/assets/images/screenshots/explore.jpg"/></kbd><br/>
 
