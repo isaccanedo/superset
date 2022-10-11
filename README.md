@@ -122,7 +122,7 @@ Aqui estão algumas das principais soluções de banco de dados que são suporta
 
 Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? Leia mais [aqui](https://superset.apache.org/docs/frequently-asked-questions#does-superset-work-with-insert-database-engine-here) sobre os requisitos técnicos.
 
-## Installation and Configuration
+## Instalação e configuração
 
 [Extended documentation for Superset](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose)
 
