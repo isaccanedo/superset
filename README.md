@@ -120,7 +120,7 @@ Aqui estão algumas das principais soluções de banco de dados que são suporta
 
 **Uma lista mais abrangente de bancos de dados suportados** junto com as instruções de configuração podem ser encontradas [aqui](https://superset.apache.org/docs/databases/installing-database-drivers).
 
-Want to add support for your datastore or data engine? Read more [here](https://superset.apache.org/docs/frequently-asked-questions#does-superset-work-with-insert-database-engine-here) about the technical requirements.
+Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? Leia mais [aqui](https://superset.apache.org/docs/frequently-asked-questions#does-superset-work-with-insert-database-engine-here) about the technical requirements.
 
 ## Installation and Configuration
 
