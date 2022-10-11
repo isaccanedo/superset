@@ -124,7 +124,7 @@ Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? 
 
 ## Instalação e configuração
 
-[Extended documentation for Superset](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose)
+[Documentação estendida para Superset](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose)
 
 ## Get Involved
 
