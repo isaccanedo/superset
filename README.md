@@ -126,7 +126,7 @@ Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? 
 
 [Documentação estendida para Superset](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose)
 
-## Get Involved
+## Se envolver
 
 - Ask and answer questions on [StackOverflow](https://stackoverflow.com/questions/tagged/apache-superset) using the **apache-superset** tag
 - [Join our community's Slack](https://join.slack.com/t/apache-superset/shared_invite/zt-16jvzmoi8-sI7jKWp~xc2zYRe~NqiY9Q)
