@@ -130,7 +130,7 @@ Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? 
 
 - Faça e responda perguntas no [StackOverflow](https://stackoverflow.com/questions/tagged/apache-superset) usando a tag **apache-superset**;
 - [Entre no Slack da nossa comunidade](https://join.slack.com/t/apache-superset/shared_invite/zt-16jvzmoi8-sI7jKWp~xc2zYRe~NqiY9Q)
-  and please read our [Slack Community Guidelines](https://github.com/apache/superset/blob/master/CODE_OF_CONDUCT.md#slack-community-guidelines)
+  e leia nossas [Diretrizes da comunidade do Slack](https://github.com/apache/superset/blob/master/CODE_OF_CONDUCT.md#slack-community-guidelines);
 - [Join our dev@superset.apache.org Mailing list](https://lists.apache.org/list.html?dev@superset.apache.org)
 
 ## Contributor Guide
