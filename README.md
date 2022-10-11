@@ -81,7 +81,7 @@ O Superset fornece:
 
 ## Bancos de dados compatíveis
 
-Superset can query data from any SQL-speaking datastore or data engine (Presto, Trino, Athena, [and more](https://superset.apache.org/docs/databases/installing-database-drivers/)) that has a Python DB-API driver and a SQLAlchemy dialect.
+O Superset pode consultar dados de qualquer armazenamento de dados ou mecanismo de dados que fale SQL (Presto, Trino, Athena, [e mais](https://superset.apache.org/docs/databases/installing-database-drivers/)) que tenha um driver Python DB-API e um dialeto SQLAlchemy.
 
 Here are some of the major database solutions that are supported:
 
