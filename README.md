@@ -83,7 +83,7 @@ O Superset fornece:
 
 O Superset pode consultar dados de qualquer armazenamento de dados ou mecanismo de dados que fale SQL (Presto, Trino, Athena, [e mais](https://superset.apache.org/docs/databases/installing-database-drivers/)) que tenha um driver Python DB-API e um dialeto SQLAlchemy.
 
-Here are some of the major database solutions that are supported:
+Aqui estão algumas das principais soluções de banco de dados que são suportadas:
 
 <p align="center">
   <img src="superset-frontend/src/assets/images/redshift.png" alt="redshift" border="0" width="200" height="80"/>
