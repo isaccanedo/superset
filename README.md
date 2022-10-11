@@ -133,7 +133,7 @@ Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? 
   e leia nossas [Diretrizes da comunidade do Slack](https://github.com/apache/superset/blob/master/CODE_OF_CONDUCT.md#slack-community-guidelines);
 - [Junte-se à nossa lista de discussão dev@superset.apache.org](https://lists.apache.org/list.html?dev@superset.apache.org).
 
-## Contributor Guide
+## Guia do Colaborador
 
 Interested in contributing? Check out our
 [CONTRIBUTING.md](https://github.com/apache/superset/blob/master/CONTRIBUTING.md)
