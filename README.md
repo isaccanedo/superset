@@ -156,7 +156,7 @@ Entendendo os pontos de vista do Superset
   - [Instalando drivers de banco de dados](https://superset.apache.org/docs/databases/docker-add-drivers/)
   - [Criando novos conectores de banco de dados](https://preset.io/blog/building-database-connector/)
   - [Crie seu primeiro painel](https://superset.apache.org/docs/creating-charts-dashboards/first-dashboard)
-  - [Comprehensive Tutorial for Contributing Code to Apache Superset
+  - [Tutorial abrangente para contribuir com código para o Apache Superset
   ](https://preset.io/blog/tutorial-contributing-code-to-apache-superset/)
 - [Resources to master Superset by Preset](https://preset.io/resources/)
 
