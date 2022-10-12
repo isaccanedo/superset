@@ -155,7 +155,7 @@ Entendendo os pontos de vista do Superset
   - [Superset em 2 minutos usando o Docker Compose](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose#installing-superset-locally-using-docker-compose)
   - [Instalando drivers de banco de dados](https://superset.apache.org/docs/databases/docker-add-drivers/)
   - [Criando novos conectores de banco de dados](https://preset.io/blog/building-database-connector/)
-  - [Create Your First Dashboard](https://superset.apache.org/docs/creating-charts-dashboards/first-dashboard)
+  - [Crie seu primeiro painel](https://superset.apache.org/docs/creating-charts-dashboards/first-dashboard)
   - [Comprehensive Tutorial for Contributing Code to Apache Superset
   ](https://preset.io/blog/tutorial-contributing-code-to-apache-superset/)
 - [Resources to master Superset by Preset](https://preset.io/resources/)
