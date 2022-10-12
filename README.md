@@ -135,7 +135,7 @@ Deseja adicionar suporte para seu armazenamento de dados ou mecanismo de dados? 
 
 ## Guia do Colaborador
 
-Interested in contributing? Check out our
+Interessado em contribuir? Confira nosso
 [CONTRIBUTING.md](https://github.com/apache/superset/blob/master/CONTRIBUTING.md)
 to find resources around contributing along with a detailed guide on
 how to set up a development environment.
