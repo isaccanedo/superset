@@ -158,7 +158,7 @@ Entendendo os pontos de vista do Superset
   - [Crie seu primeiro painel](https://superset.apache.org/docs/creating-charts-dashboards/first-dashboard)
   - [Tutorial abrangente para contribuir com código para o Apache Superset
   ](https://preset.io/blog/tutorial-contributing-code-to-apache-superset/)
-- [Resources to master Superset by Preset](https://preset.io/resources/)
+- [Recursos para dominar o Superset por Preset](https://preset.io/resources/)
 
 - Deploying Superset
   - [Official Docker image](https://hub.docker.com/r/apache/superset)
