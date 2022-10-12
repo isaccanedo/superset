@@ -147,7 +147,7 @@ Superset 2.0!
 - [Notas de versão do Superset 2.0](https://github.com/apache/superset/tree/master/RELEASING/release-notes-2-0)
 
 Entendendo os pontos de vista do Superset
-- [The Case for Dataset-Centric Visualization](https://preset.io/blog/dataset-centric-visualization/)
+- [O caso da visualização centrada no conjunto de dados](https://preset.io/blog/dataset-centric-visualization/)
 - [Understanding the Superset Semantic Layer](https://preset.io/blog/understanding-superset-semantic-layer/)
 
 
