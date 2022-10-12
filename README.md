@@ -143,7 +143,7 @@ como configurar um ambiente de desenvolvimento.
 ## Recursos
 
 Superset 2.0!
-- [Superset 2.0 Meetup](https://preset.io/events/superset-2-0-meetup/)
+- [Encontro Superset 2.0](https://preset.io/events/superset-2-0-meetup/)
 - [Superset 2.0 Release Notes](https://github.com/apache/superset/tree/master/RELEASING/release-notes-2-0)
 
 Understanding the Superset Points of View
