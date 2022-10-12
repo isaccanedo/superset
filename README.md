@@ -151,7 +151,7 @@ Entendendo os pontos de vista do Superset
 - [Entendendo a camada semântica do Superset](https://preset.io/blog/understanding-superset-semantic-layer/)
 
 
-- Getting Started with Superset
+- Introdução ao Superset
   - [Superset in 2 Minutes using Docker Compose](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose#installing-superset-locally-using-docker-compose)
   - [Installing Database Drivers](https://superset.apache.org/docs/databases/docker-add-drivers/)
   - [Building New Database Connectors](https://preset.io/blog/building-database-connector/)
