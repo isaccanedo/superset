@@ -160,8 +160,8 @@ Entendendo os pontos de vista do Superset
   ](https://preset.io/blog/tutorial-contributing-code-to-apache-superset/)
 - [Recursos para dominar o Superset por Preset](https://preset.io/resources/)
 
-- Deploying Superset
-  - [Official Docker image](https://hub.docker.com/r/apache/superset)
+- Como implantar o superconjunto
+  - [Imagem oficial do Docker](https://hub.docker.com/r/apache/superset)
   - [Helm Chart](https://github.com/apache/superset/tree/master/helm/superset)
 
 - Recordings of Past [Superset Community Events](https://preset.io/events)
