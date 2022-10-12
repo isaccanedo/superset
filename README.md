@@ -140,7 +140,7 @@ Interessado em contribuir? Confira nosso
 para encontrar recursos sobre como contribuir junto com um guia detalhado sobre
 como configurar um ambiente de desenvolvimento.
 
-## Resources
+## Recursos
 
 Superset 2.0!
 - [Superset 2.0 Meetup](https://preset.io/events/superset-2-0-meetup/)
